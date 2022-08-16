@@ -1,0 +1,64 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+
+    /* animations */
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+.nav_black{
+    background-color: #111;
+}
+
+.nav_logo{
+    position: fixed;
+    left: 20px;
+    width: 90px;
+    object-fit: contain;
+}
+
+.nav_title{
+    padding-top: 12px;
+    padding-left: 120px;
+}
+
+.nav_content{
+    color: white;
+    padding: 0px 15px;
+    font-weight: 500;
+}
+
+.nav_sideitems{
+    position: fixed;
+    right: 0px;
+    padding-top: 10px;
+    padding-right: 80px;
+  }
+
+.nav_images{
+    object-fit: contain;
+    width: 20px;
+    padding: 0 10px;
+}
+
+.nav_side{
+    color: white;
+    font-weight: 300;
+    padding: 0 10px;
+    position: relative;
+    bottom: 2px;
+}
+
+.nav_avatar{
+    position: fixed;
+    right: 20px;
+    width: 35px;
+    object-fit: contain;
+}

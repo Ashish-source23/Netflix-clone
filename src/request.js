@@ -12,4 +12,30 @@ const requests = {
   }
 
   export default requests;
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// import { config } from "./config.js";
+// const API_KEY = config.SECRET_API_KEY;
+// console.log(API_KEY);
