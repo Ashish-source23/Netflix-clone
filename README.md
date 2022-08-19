@@ -7,6 +7,8 @@ Technologies used : React.js , HTML5 , CSS3 , JS
 
 Dependencies used : Axios , react-youtube , react movie-trailer
 
+✪✪ Check this link : https://netflix-clone-95c0e.firebaseapp.com/ ✪✪
+
 <<<<<<<----------- HERE ARE SOME LIVE IMAGES OF THIS PROJECT ---------->>>>>>>
 
 ![image](https://user-images.githubusercontent.com/83506458/184833456-c77bec48-5eb6-464d-b02b-46813d62c844.png)
@@ -17,3 +19,5 @@ Dependencies used : Axios , react-youtube , react movie-trailer
 ![image](https://user-images.githubusercontent.com/83506458/184833562-603c1038-8d8f-4448-b10d-8e999e2b3500.png)
 
 Thank You !!! Feel Free to check this out.
+
+
